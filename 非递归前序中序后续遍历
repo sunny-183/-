@@ -12,7 +12,7 @@ struct TNode{
     int flag;
 };
 
-/*------堆栈的定义-------*/
+/*------堆栈的定义------*/
 typedef Position SElementType;
 typedef struct SNode *PtrToSNode;
 struct SNode {
